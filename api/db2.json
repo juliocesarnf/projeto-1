@@ -1,0 +1,278 @@
+{
+    "disciplinas": [
+      {
+        "nome": "Matemática Básica",
+        "apelido": "MATB",
+        "periodo": 1,
+        "pastas": [
+          { "id": 1, "nome": "Teoria", "arquivos": ["frações.pdf", "conjuntos.pdf"] },
+          { "id": 2, "nome": "Exercícios", "arquivos": ["lista1.pdf", "lista2.pdf"] }
+        ]
+      },
+      {
+        "nome": "Introdução à Programação",
+        "apelido": "IP",
+        "periodo": 1,
+        "pastas": [
+          { "id": 3, "nome": "Códigos", "arquivos": ["exemplo1.c", "exemplo2.c"] }
+        ]
+      },
+      {
+        "nome": "Fundamentos de Sistemas de Informação",
+        "apelido": "FSI",
+        "periodo": 1,
+        "pastas": []
+      },
+      {
+        "nome": "Algoritmos e Lógica",
+        "apelido": "ALG",
+        "periodo": 1,
+        "pastas": [
+          { "id": 4, "nome": "Material", "arquivos": ["aula1.pdf", "aula2.pdf"] }
+        ]
+      },
+      {
+        "nome": "Inglês Instrumental",
+        "apelido": "ING",
+        "periodo": 1,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Cálculo I",
+        "apelido": "CALC1",
+        "periodo": 2,
+        "pastas": [
+          { "id": 5, "nome": "Notas de Aula", "arquivos": ["limites.pdf"] }
+        ]
+      },
+      {
+        "nome": "Programação Orientada a Objetos",
+        "apelido": "POO",
+        "periodo": 2,
+        "pastas": [
+          { "id": 6, "nome": "Exemplos Java", "arquivos": ["heranca.java", "polimorfismo.java"] }
+        ]
+      },
+      {
+        "nome": "Estrutura de Dados",
+        "apelido": "ED",
+        "periodo": 2,
+        "pastas": []
+      },
+      {
+        "nome": "Física I",
+        "apelido": "FIS1",
+        "periodo": 2,
+        "pastas": [
+          { "id": 7, "nome": "Teoria", "arquivos": ["cinematica.pdf"] }
+        ]
+      },
+      {
+        "nome": "Redes de Computadores I",
+        "apelido": "RED1",
+        "periodo": 2,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Cálculo II",
+        "apelido": "CALC2",
+        "periodo": 3,
+        "pastas": []
+      },
+      {
+        "nome": "Banco de Dados",
+        "apelido": "BD",
+        "periodo": 3,
+        "pastas": [
+          { "id": 8, "nome": "SQL", "arquivos": ["select.pdf", "joins.pdf"] }
+        ]
+      },
+      {
+        "nome": "Programação Web",
+        "apelido": "WEB",
+        "periodo": 3,
+        "pastas": [
+          { "id": 9, "nome": "HTML e CSS", "arquivos": ["estrutura.html", "estilo.css"] }
+        ]
+      },
+      {
+        "nome": "Probabilidade e Estatística",
+        "apelido": "EST",
+        "periodo": 3,
+        "pastas": []
+      },
+      {
+        "nome": "Engenharia de Software",
+        "apelido": "ESW",
+        "periodo": 3,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Física II",
+        "apelido": "FIS2",
+        "periodo": 4,
+        "pastas": []
+      },
+      {
+        "nome": "Desenvolvimento de Aplicações Móveis",
+        "apelido": "DAM",
+        "periodo": 4,
+        "pastas": [
+          { "id": 10, "nome": "Flutter", "arquivos": ["introducao.md"] }
+        ]
+      },
+      {
+        "nome": "Sistemas Operacionais",
+        "apelido": "SO",
+        "periodo": 4,
+        "pastas": []
+      },
+      {
+        "nome": "Compiladores",
+        "apelido": "COMP",
+        "periodo": 4,
+        "pastas": []
+      },
+      {
+        "nome": "Empreendedorismo",
+        "apelido": "EMP",
+        "periodo": 4,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Inteligência Artificial",
+        "apelido": "IA",
+        "periodo": 5,
+        "pastas": [
+          { "id": 11, "nome": "Machine Learning", "arquivos": ["introducao_ml.pdf"] }
+        ]
+      },
+      {
+        "nome": "Engenharia de Requisitos",
+        "apelido": "ER",
+        "periodo": 5,
+        "pastas": []
+      },
+      {
+        "nome": "Análise e Projeto de Sistemas",
+        "apelido": "APS",
+        "periodo": 5,
+        "pastas": []
+      },
+      {
+        "nome": "Computação Gráfica",
+        "apelido": "CG",
+        "periodo": 5,
+        "pastas": []
+      },
+      {
+        "nome": "Redes de Computadores II",
+        "apelido": "RED2",
+        "periodo": 5,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Segurança da Informação",
+        "apelido": "SEG",
+        "periodo": 6,
+        "pastas": [
+          { "id": 12, "nome": "Criptografia", "arquivos": ["aes.pdf", "rsa.pdf"] }
+        ]
+      },
+      {
+        "nome": "Projeto de Sistemas de Software",
+        "apelido": "PSS",
+        "periodo": 6,
+        "pastas": []
+      },
+      {
+        "nome": "Computação em Nuvem",
+        "apelido": "Nuvem",
+        "periodo": 6,
+        "pastas": []
+      },
+      {
+        "nome": "Gerência de Projetos",
+        "apelido": "GP",
+        "periodo": 6,
+        "pastas": []
+      },
+      {
+        "nome": "Bioinformática",
+        "apelido": "BIO",
+        "periodo": 6,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Tópicos Especiais em Computação",
+        "apelido": "TEC",
+        "periodo": 7,
+        "pastas": []
+      },
+      {
+        "nome": "Big Data",
+        "apelido": "BIG",
+        "periodo": 7,
+        "pastas": []
+      },
+      {
+        "nome": "Desenvolvimento Web Avançado",
+        "apelido": "WEB2",
+        "periodo": 7,
+        "pastas": []
+      },
+      {
+        "nome": "Robótica",
+        "apelido": "ROB",
+        "periodo": 7,
+        "pastas": []
+      },
+      {
+        "nome": "Realidade Virtual",
+        "apelido": "VR",
+        "periodo": 7,
+        "pastas": []
+      },
+    
+      {
+        "nome": "Projeto de Conclusão de Curso",
+        "apelido": "PCC",
+        "periodo": 8,
+        "pastas": [
+          { "id": 13, "nome": "Documentação", "arquivos": ["tcc_template.docx"] }
+        ]
+      },
+      {
+        "nome": "Ética e Legislação",
+        "apelido": "ETICA",
+        "periodo": 8,
+        "pastas": []
+      },
+      {
+        "nome": "Gestão de TI",
+        "apelido": "GTI",
+        "periodo": 8,
+        "pastas": []
+      },
+      {
+        "nome": "Consultoria em TI",
+        "apelido": "CTI",
+        "periodo": 8,
+        "pastas": []
+      },
+      {
+        "nome": "Empreendedorismo II",
+        "apelido": "EMP2",
+        "periodo": 8,
+        "pastas": []
+      }
+    ]
+  }
+    
+  

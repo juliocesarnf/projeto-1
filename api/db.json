@@ -1,0 +1,264 @@
+{
+    "professores": [
+        {
+            "id": 1,
+            "nome": "Carlos Silva",
+            "senha": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+            "email": "carlos.silva@universidade.edu"
+        },
+        {
+            "id": 2,
+            "nome": "Juliana Costa",
+            "senha": "6b08d780140e292a4af8ba3f2333fc1357091442d7e807c6cad92e8dcd0240b7",
+            "email": "juliana.costa@universidade.edu"
+        }
+    ],
+    "disciplinas": [
+        {
+            "id": 1,
+            "nome": "Introdução à Computação",
+            "apelido": "IC",
+            "periodo": "1º"
+        },
+        {
+            "id": 2,
+            "nome": "Matemática Básica",
+            "apelido": "MB",
+            "periodo": "1º"
+        },
+        {
+            "id": 3,
+            "nome": "Comunicação Oral e Escrita",
+            "apelido": "COE",
+            "periodo": "1º"
+        },
+        {
+            "id": 4,
+            "nome": "Fundamentos de Lógica",
+            "apelido": "FL",
+            "periodo": "1º"
+        },
+        {
+            "id": 5,
+            "nome": "Algoritmos e Programação",
+            "apelido": "AP",
+            "periodo": "1º"
+        },
+        {
+            "id": 6,
+            "nome": "Estrutura de Dados I",
+            "apelido": "ED1",
+            "periodo": "2º"
+        },
+        {
+            "id": 7,
+            "nome": "Matemática Discreta",
+            "apelido": "MD",
+            "periodo": "2º"
+        },
+        {
+            "id": 8,
+            "nome": "Programação Orientada a Objetos",
+            "apelido": "POO",
+            "periodo": "2º"
+        },
+        {
+            "id": 9,
+            "nome": "Arquitetura de Computadores",
+            "apelido": "AC",
+            "periodo": "2º"
+        },
+        {
+            "id": 10,
+            "nome": "Inglês Técnico",
+            "apelido": "IT",
+            "periodo": "2º"
+        },
+        {
+            "id": 11,
+            "nome": "Banco de Dados I",
+            "apelido": "BD1",
+            "periodo": "3º"
+        },
+        {
+            "id": 12,
+            "nome": "Estrutura de Dados II",
+            "apelido": "ED2",
+            "periodo": "3º"
+        },
+        {
+            "id": 13,
+            "nome": "Engenharia de Software I",
+            "apelido": "ES1",
+            "periodo": "3º"
+        },
+        {
+            "id": 14,
+            "nome": "Sistemas Operacionais I",
+            "apelido": "SO1",
+            "periodo": "3º"
+        },
+        {
+            "id": 15,
+            "nome": "Redes de Computadores I",
+            "apelido": "RC1",
+            "periodo": "3º"
+        },
+        {
+            "id": 16,
+            "nome": "Banco de Dados II",
+            "apelido": "BD2",
+            "periodo": "4º"
+        },
+        {
+            "id": 17,
+            "nome": "Programação Web",
+            "apelido": "PW",
+            "periodo": "4º"
+        },
+        {
+            "id": 18,
+            "nome": "Sistemas Operacionais II",
+            "apelido": "SO2",
+            "periodo": "4º"
+        },
+        {
+            "id": 19,
+            "nome": "Engenharia de Software II",
+            "apelido": "ES2",
+            "periodo": "4º"
+        },
+        {
+            "id": 20,
+            "nome": "Probabilidade e Estatística",
+            "apelido": "PE",
+            "periodo": "4º"
+        },
+        {
+            "id": 21,
+            "nome": "Desenvolvimento Mobile",
+            "apelido": "DM",
+            "periodo": "5º"
+        },
+        {
+            "id": 22,
+            "nome": "Redes de Computadores II",
+            "apelido": "RC2",
+            "periodo": "5º"
+        },
+        {
+            "id": 23,
+            "nome": "Segurança da Informação",
+            "apelido": "SI",
+            "periodo": "5º"
+        },
+        {
+            "id": 24,
+            "nome": "Estratégias de Testes",
+            "apelido": "ET",
+            "periodo": "5º"
+        },
+        {
+            "id": 25,
+            "nome": "Interface Humano-Computador",
+            "apelido": "IHC",
+            "periodo": "5º"
+        },
+        {
+            "id": 26,
+            "nome": "Computação Gráfica",
+            "apelido": "CG",
+            "periodo": "6º"
+        },
+        {
+            "id": 27,
+            "nome": "Inteligência Artificial",
+            "apelido": "IA",
+            "periodo": "6º"
+        },
+        {
+            "id": 28,
+            "nome": "Computação em Nuvem",
+            "apelido": "CN",
+            "periodo": "6º"
+        },
+        {
+            "id": 29,
+            "nome": "Gerência de Projetos",
+            "apelido": "GP",
+            "periodo": "6º"
+        },
+        {
+            "id": 30,
+            "nome": "Empreendedorismo",
+            "apelido": "EMP",
+            "periodo": "6º"
+        },
+        {
+            "id": 31,
+            "nome": "Tópicos Especiais em Computação I",
+            "apelido": "TEC1",
+            "periodo": "7º"
+        },
+        {
+            "id": 32,
+            "nome": "Mineração de Dados",
+            "apelido": "MDados",
+            "periodo": "7º"
+        },
+        {
+            "id": 33,
+            "nome": "Robótica",
+            "apelido": "ROB",
+            "periodo": "7º"
+        },
+        {
+            "id": 34,
+            "nome": "Internet das Coisas",
+            "apelido": "IoT",
+            "periodo": "7º"
+        },
+        {
+            "id": 35,
+            "nome": "Ética e Legislação",
+            "apelido": "EL",
+            "periodo": "7º"
+        },
+        {
+            "id": 36,
+            "nome": "Trabalho de Conclusão de Curso I",
+            "apelido": "TCC1",
+            "periodo": "8º"
+        },
+        {
+            "id": 37,
+            "nome": "Tópicos Especiais em Computação II",
+            "apelido": "TEC2",
+            "periodo": "8º"
+        },
+        {
+            "id": 38,
+            "nome": "Gestão da Qualidade de Software",
+            "apelido": "GQS",
+            "periodo": "8º"
+        },
+        {
+            "id": 39,
+            "nome": "Desenvolvimento de Jogos",
+            "apelido": "DJ",
+            "periodo": "8º"
+        },
+        {
+            "id": 40,
+            "nome": "Trabalho de Conclusão de Curso II",
+            "apelido": "TCC2",
+            "periodo": "8º"
+        }
+    ],
+    "links": [
+        { "id": 1, "titulo": "Material de aula", "endereco": "http://exemplo.com/aula", "descricao": "Slides da primeira aula", "disciplina_id": 1 },
+        { "id": 2, "titulo": "Livro recomendado", "endereco": "http://exemplo.com/livro", "descricao": "Livro base da disciplina", "disciplina_id": 1 },
+        { "id": 3, "titulo": "Exercícios", "endereco": "http://exemplo.com/exercicios", "descricao": "Lista de exercícios", "disciplina_id": 2 }
+      ]
+      
+}
